@@ -1,0 +1,11 @@
+Question 1.) What changed by adding > to ls?
+
+Doing ls > newfile.txt created the file newfile.txt, similar to using the touch command.
+
+Question 2.) What does git status say about newfile.txt?
+
+git status is saying that newfile.txt is waiting to be committed, after performing the git add newfile.txt command.
+
+Question 3.) What does git diff tell us about our files?
+
+git diff tells us the content of newfile.txt
